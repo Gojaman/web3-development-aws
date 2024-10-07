@@ -1,6 +1,6 @@
-# Web3 Development Workshop
+# Web3 Development with AWS
 
-This repository contains the code and documentation for a Web3 Development Workshop that demonstrates how to integrate AWS cloud services with a decentralized application (dApp). The project highlights the use of smart contracts, AWS Lambda, API Gateway, and other AWS services to create a scalable Web3 solution.
+This repository contains the code and documentation for a Web3 Development with AWS that demonstrates how to integrate AWS cloud services with a decentralized application (dApp). The project highlights the use of smart contracts, AWS Lambda, API Gateway, and other AWS services to create a scalable Web3 solution.
 
 ## Overview
 
