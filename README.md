@@ -1,4 +1,4 @@
-# Web3 Development Workshop
+# Web3 Development AWS
 
 This repository contains code and documentation for the Web3 Development Workshop. The goal of this project is to build a decentralized application (dApp) using AWS services integrated with blockchain technology.
 
@@ -28,6 +28,6 @@ Before getting started, you will need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/web3-development-workshop.git
-   cd web3-development-workshop
+   git clone https://github.com/your-username/web3-development-aws.git
+   cd web3-development-aws
 
