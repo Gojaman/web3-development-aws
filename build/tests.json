@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "StoreValue": "13f28a9bc4b061553d7ffd110ea17d7e74b99aa8"
+  },
+  "tests": {
+    "tests/test_store_value.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "..",
+      "sha1": "f28b0f912379a3c1b33b35366a6e75411559d64d",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
