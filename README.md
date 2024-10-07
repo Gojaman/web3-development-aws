@@ -3,19 +3,15 @@
 This repository contains code and documentation for the Web3 Development Workshop. The goal of this project is to build a decentralized application (dApp) using AWS services integrated with blockchain technology.
 
 ## Overview
-
-The project demonstrates how to:
-- Develop and deploy smart contracts
-- Integrate AWS services like API Gateway, Lambda, and Managed Blockchain
-- Store and retrieve data using decentralized storage (IPFS, AWS S3)
-- Build and deploy a decentralized application (dApp)
+This project showcases how to build a decentralized application (dApp) with AWS services integrated into a blockchain-based system. It includes deploying smart contracts and utilizing AWS services to manage the backend infrastructure, all while demonstrating the scalability and security offered by cloud integration with blockchain.
 
 ## Project Structure
 
-- **smart_contracts/**: Contains smart contract code written in Solidity.
-- **aws_integration/**: AWS-related configurations (Lambda, API Gateway).
-- **frontend/**: Frontend files for the dApp.
-- **docs/**: Additional documentation such as architecture diagrams and setup instructions.
+- **smart_contracts/**: This folder contains the Solidity smart contracts that are deployed to Ethereum/another blockchain. These contracts handle the core functionality of the dApp.
+- **aws_integration/**: AWS configuration files and Lambda functions are placed here. This includes the integration of AWS services such as API Gateway and Lambda to connect with the blockchain.
+- **frontend/**: The frontend code for interacting with the dApp, providing users with a web interface to interact with the smart contracts.
+- **docs/**: Diagrams and detailed documentation related to the architecture and design of the system.
+
 
 ## Prerequisites
 
